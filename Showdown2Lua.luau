@@ -4,7 +4,7 @@
     Description: | Convert Showdown data to Luau
 
     Notes:
-        * "why are EVs and IVs being detected separately?" no reason :buddha:
+        * "why are EVs and IVs being parsed separately?" no reason :buddha:
         * A way to convert Luau Pokémon data to Showdown data was planned, but it is pretty useless (so it was scrapped)
         * Pokémon nicknames are not supported (fork and do it yourself)
         * Hidden power was not fully implemented (fork and DIY)
