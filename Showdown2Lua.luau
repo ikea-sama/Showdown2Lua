@@ -1,7 +1,7 @@
 --[[
     File:        | Showdown2Lua.luau
     Author:      | Gilbert University Computer Science Club 
-    Description: | Convert Showdown data to Luau
+    Description: | Convert Pokémon Showdown data to Lua
 
     Notes:
         * "why are EVs and IVs being parsed separately?" no reason :buddha:
