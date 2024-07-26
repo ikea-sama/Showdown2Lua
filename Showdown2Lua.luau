@@ -58,7 +58,7 @@ local function ShowdownToLuau(data: string)
     local level             = 100 -- If a level is not specified, Pokémon Showdown assumes it to be 100
     local is_shiny          = false
 
-    local tera_type         -- PBB copies don't really have this mechanic, but I added it for fun
+    local tera_type         -- this mechanic isn't fully implemented, but it was added anyways
     local effort_values     = table_clone(stat_types)
     local individual_values = table_clone(stat_types)
 
